@@ -1,7 +1,5 @@
-CocktailDB is an React application where a user can search and view informations about cocktails. The application has a search functionality and resposive style
+CocktailDB React App is a web application built using React, HTML, CSS, and JavaScript. The app allows users to search and view information about cocktails. The interface features a responsive design, making it accessible across various devices.
 
-Technologies/Languages
-Javascript,HTML,CSS,React
+CocktailDB React App utilizes two APIs to retrieve and display the data. The first API allows the user to search for cocktails by name or ingredients, while the second API retrieves detailed information about a specific cocktail when clicked on.
 
-URL : https://cocktaildbreactapp.netlify.app/
-APIs : https://www.thecocktaildb.com/api/json/v1/1/search.php?s= , https://www.thecocktaildb.com/api/json/v1/1/lookup.php?iid=552 (id changes dynamicly)
+If you're interested in checking out the app, you can access it at the following URL: https://cocktaildbreactapp.netlify.app/.
